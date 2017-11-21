@@ -1,2 +1,6 @@
-# High-Immersion-Starter-Project
-The Starter Project for the course on High Immersion VR in the Udacity VRND
+# Rube Goldberg Starter Project
+
+This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
+
+## Versions
+- Unity 2017.1.0p4
